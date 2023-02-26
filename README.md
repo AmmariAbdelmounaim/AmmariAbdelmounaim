@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ahbari Mohammed</h1>
+<h1 align="left">Hi 👋, I'm Ammari Abdelmounaim</h1>
 <h3 align="left">A passionate software engineering student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahbari-m&label=Profile%20views&color=0e75b6&style=flat" alt="ahbari-m" /> </p>
