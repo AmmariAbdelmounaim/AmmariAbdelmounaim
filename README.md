@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelmounaim</h1>
 <h3 align="center">A passionate software engineering student from Moroco</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammariabdelmounaim&show_icons=true&locale=en" alt="ammariabdelmounaim" /></p>
-- 🔭 I’m currently working on on **Nifty-Learn**
 
 - 🌱 I’m currently learning **Web3,Solidity,NodeJS**
 
