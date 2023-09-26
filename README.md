@@ -2,7 +2,7 @@
 <h3 align="left">A passionate computer engineering student from Moroco</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammariabdelmounaim&show_icons=true&locale=en" alt="ammariabdelmounaim" /></p>
 
-- 🌱 I’m currently learning **Web3,Solidity,NodeJS**
+- 🌱 I’m currently learning **NextJs,Docker,Leetcode**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
