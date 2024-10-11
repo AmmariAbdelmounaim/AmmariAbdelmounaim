@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Abdelmounaim</h1>
 <h3 align="left">A passionate computer engineering student from Morocco</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ammariabdelmounaim&show_icons=true&locale=en" alt="ammariabdelmounaim" /></p>
 
 - 🌱 I’m currently learning **NextJs,Generative AI**
 
