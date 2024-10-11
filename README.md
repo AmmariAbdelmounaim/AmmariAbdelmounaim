@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Abdelmounaim</h1>
-<h3 align="left">A passionate computer engineering student from Morocco</h3>
+<h3 align="left">A passionate computer engineering Graduate</h3>
 
 - 🌱 I’m currently learning **NextJs,Generative AI**
 
