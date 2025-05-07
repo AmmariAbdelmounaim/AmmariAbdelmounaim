@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Abdelmounaim</h1>
 <h3 align="left">A passionate software engineer from Morocco</h3>
 
-- 🌱 I’m currently learning **NextJs,Generative AI**
+- 🌱 I’m currently learning **Advanced React - Generative AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
