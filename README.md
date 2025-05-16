@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdel</h1>
 <h3 align="center">A passionate software engineer from Morocco</h3>
 
-- 🔭 I’m currently working on [Plotdot Horizon](https://horizon.plotdot.ai)
-
 - 🌱 I’m currently learning **Advanced React concepts and Gen AI**
 
 - 👨‍💻 All of my projects are available at [https://abdelmounaimammari.me](https://abdelmounaimammari.me)
